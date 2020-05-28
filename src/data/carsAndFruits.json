@@ -1,0 +1,25 @@
+[{
+    "name": "Apple",
+    "category": "fruits"
+}, {
+    "name": "Audi",
+    "category": "cars"
+}, {
+    "name": "Lexus",
+    "category": "cars"
+}, {
+    "name": "BMW",
+    "category": "cars"
+}, {
+    "name": "Land Rover",
+    "category": "cars"
+}, {
+    "name": "Banana",
+    "category": "fruits"
+}, {
+    "name": "Cherry",
+    "category": "fruits"
+}, {
+    "name": "Mango",
+    "category": "fruits"
+}]

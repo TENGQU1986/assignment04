@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(211, 210, 210);
+}
+
+.modalButton {
+    display: flex;
+    flex-direction: row;
+    
+    margin: 30px
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

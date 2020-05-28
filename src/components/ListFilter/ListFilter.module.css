@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 50px 0;
+    border: 3px solid rgb(185, 185, 185);
+    width: 70%;
+}
+
+.modalButtons Button {
+    margin: 0 5px;
+}
+
+select {
+    height: 40px;
+    font-size: medium;
+    font-weight: 100;
+    background-color: rgb(211, 210, 210);
+    margin-right: 10px;
+    margin-top: 10px;
+}
